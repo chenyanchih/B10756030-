@@ -1,0 +1,31 @@
+ body,
+ h1 {
+     font-family: "Montserrat", sans-serif;
+     color: rgb(1, 1, 98)
+ }
+ 
+ h5 {
+     color: rgb(1, 1, 98)
+ }
+ 
+ h3 {
+     color: rgb(1, 1, 98)
+ }
+ 
+ img {
+     margin-bottom: -7px
+ }
+ 
+ .w3-row-padding img {
+     margin-bottom: 12px
+ }
+ 
+ .mycat1 {
+     color: rgb(15, 15, 185);
+     text-align: center;
+ }
+ 
+ .tm1 {
+     color: rgb(7, 7, 105);
+     text-align: center;
+ }
